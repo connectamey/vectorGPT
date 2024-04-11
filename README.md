@@ -38,9 +38,3 @@ We welcome contributions from the community! If you'd like to contribute, please
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@YourTwitter](https://twitter.com/YourTwitter)
-
-Project Link: [https://github.com/your_project_link](https://github.com/your_project_link)
